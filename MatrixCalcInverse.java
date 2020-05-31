@@ -35,16 +35,6 @@ class MatrixCalcInverse
         }
     }
 
-    void display(int a[][])     //to display matrices of int data type
-    {
-        for(int i=0; i<size; i++)
-        {
-            for(int j=0; j<size; j++)
-                System.out.print(a[i][j]+"\t\t");
-            System.out.println();
-        }
-    }
-
     double findDeterminant(double a[][])      //to find determinant of passed matrix
     {
         int len=a.length;
