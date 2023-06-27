@@ -1,3 +1,4 @@
 # Matrix
 
-Its one of my first project. A java implementation to calculate inverse of a n*n matrix.
+- It's one of my first projects.
+- A Java implementation to calculate the inverse of an n*n matrix.
